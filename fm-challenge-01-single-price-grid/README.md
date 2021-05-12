@@ -6,7 +6,7 @@
 
 A little practice of this code challenge created by frontend mentor.
 
-[Frontend Mentor](https://www.frontendmentor.io) 
+[Live Demo](https://single-price-grid-virid.vercel.app/) 
 
 ## The challenge
 
