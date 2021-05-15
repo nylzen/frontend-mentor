@@ -9,4 +9,4 @@ Este repositorio es una coleccion con todas mis soluciones a los challenges de [
 - Stats preview card component
   - [Live Demo / Stats Preview](https://stats-card-component-weld.vercel.app/)
 - Column Preview Card Component
-  - [Live Demo / 3 Column Card](https://stats-card-component-weld.vercel.app/)
+  - [Live Demo / 3 Column Card](https://column-preview-drab.vercel.app/)
